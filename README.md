@@ -7,7 +7,8 @@ Aimed at up and running out-of-the-box, both locally and on Heroku.
 Check out different branches:
 
 ## hello-world
-  simple and pure `hello world` 
+
+  Simple and pure `hello world` 
 
   ```
   heroku create
@@ -15,3 +16,6 @@ Check out different branches:
   heroku open
   ```
 
+## erb-template
+
+  Rendering template using `tilt`
